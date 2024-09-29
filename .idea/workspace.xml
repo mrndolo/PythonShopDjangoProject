@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="installed, run and launched django">
-      <change afterPath="$PROJECT_DIR$/products/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="created new app and view function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonshopdjangoproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonshopdjangoproject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonshopdjangoproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonshopdjangoproject/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,12 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727548501484</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="created new app and view function">
+      <option name="closed" value="true" />
+      <created>1727553925620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727553925620</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="installed, run and launched django" />
-    <option name="LAST_COMMIT_MESSAGE" value="installed, run and launched django" />
+    <MESSAGE value="created new app and view function" />
+    <option name="LAST_COMMIT_MESSAGE" value="created new app and view function" />
   </component>
 </project>
