@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="created new app and view function">
+    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="created models and made migrations">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pythonshopdjangoproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonshopdjangoproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +91,33 @@
       <option name="project" value="LOCAL" />
       <updated>1727553925620</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="created models and made migrations">
+      <option name="closed" value="true" />
+      <created>1727644665749</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727644665749</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="installed, run and launched django" />
     <MESSAGE value="created new app and view function" />
-    <option name="LAST_COMMIT_MESSAGE" value="created new app and view function" />
+    <MESSAGE value="created models and made migrations" />
+    <option name="LAST_COMMIT_MESSAGE" value="created models and made migrations" />
   </component>
 </project>
