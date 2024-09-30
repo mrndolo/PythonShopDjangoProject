@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="created models and made migrations">
+    <list default="true" id="00d964d3-05af-4fa9-98a2-8fb141d530c1" name="Changes" comment="created admin user and managed products from admin panel">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/products/admin.py" afterDir="false" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727644665749</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="created admin user and managed products from admin panel">
+      <option name="closed" value="true" />
+      <created>1727646499536</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727646499536</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -118,6 +126,7 @@
     <MESSAGE value="installed, run and launched django" />
     <MESSAGE value="created new app and view function" />
     <MESSAGE value="created models and made migrations" />
-    <option name="LAST_COMMIT_MESSAGE" value="created models and made migrations" />
+    <MESSAGE value="created admin user and managed products from admin panel" />
+    <option name="LAST_COMMIT_MESSAGE" value="created admin user and managed products from admin panel" />
   </component>
 </project>
